@@ -29,12 +29,6 @@
 
 ---
 
-## 💡 Glowing Highlight Box
-<p align="center">
-  <img src="https://i.ibb.co/YRh5MPb/glow-box.gif" alt="Glowing Box" width="450" />
-  <br/>
-  <sub>✨ This glowing box represents my constant energy to learn & create ✨</sub>
-</p>
 
 ---
 
