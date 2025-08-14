@@ -3,6 +3,14 @@
   <img src="https://i.ibb.co/hgL5z6R/github-header-image.gif" alt="Banner" width="100%" />
 </p>
 
+---
+
+## 👨‍💻 Coder at Work
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder at work" />
+</p>
+
+---
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi+I'm+Aasim+%F0%9F%91%8B;MERN+Stack+%7C+Machine+Learning+%7C+UI%2FUX;HTML+CSS+JS+%7C+MongoDB+%7C+MySQL;Python+%7C+Android+Studio+%7C+Flutter;Kali+Linux+%7C+WordPress+Lover;Always+Learning+New+Things" alt="Typing Animation" />
@@ -12,6 +20,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header&animation=slide" />
 </p>
+---
+
+## 👋 About Me
+I'm a React JS-focused developer with hands-on experience in building interactive web applications and full-stack solutions. I enjoy Designing clean code with smooth user experiences.  
+
+🔭 I’m currently working as a **React JS intern at IsyncEvolution**  
+🌱 I’m improving my skills in **React js and Frontend Development**  
+💬 Ask me about **AI, React, Frontend development,,Designs or Machine Learning**  
+🔍 Currently exploring opportunities in **R&D and AI-driven innovation**  
+
+---
 
 ## 🛠 Tech & Tools
 <p align="center">
@@ -42,14 +61,7 @@
 </p>
 <sub>💻 Key projects demonstrating my technical and design skills</sub>
 
----
 
-## 👨‍💻 Coder at Work
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder at work" />
-</p>
-
----
 
 ## 💬 Professional Highlights
 - Developed machine learning models for predictive analytics.  
