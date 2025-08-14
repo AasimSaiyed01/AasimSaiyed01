@@ -3,12 +3,7 @@
   <img src="https://i.ibb.co/hgL5z6R/github-header-image.gif" alt="Banner" width="100%" />
 </p>
 
----
 
-## 👨‍💻 Coder at Work
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder at work" />
-</p>
 
 ---
 <!-- Typing Animation -->
@@ -32,6 +27,12 @@ I'm a React JS-focused developer with hands-on experience in building interactiv
 
 ---
 
+
+## 👨‍💻 Coder at Work
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder at work" />
+</p>
+---
 ## 🛠 Tech & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,flutter,androidstudio,wordpress,kali" />
