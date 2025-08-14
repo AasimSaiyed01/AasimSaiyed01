@@ -3,9 +3,9 @@
   <img src="https://i.ibb.co/hgL5z6R/github-header-image.gif" alt="Banner" width="100%" />
 </p>
 
-<!-- Typing Animation (Shorter Intro) -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Aasim+%F0%9F%91%8B;UI%2FUX+Designer+%26+Developer;Always+Exploring+%26+Creating" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi+I'm+Aasim+%F0%9F%91%8B;MERN+Stack+%7C+Machine+Learning+%7C+UI%2FUX;HTML+CSS+JS+%7C+MongoDB+%7C+MySQL;Python+%7C+Android+Studio+%7C+Flutter;Kali+Linux+%7C+WordPress+Lover;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 ---
@@ -22,26 +22,39 @@
 
 ---
 
-## ⚡ Matrix Rain Vibes
+## 👨‍💻 GIF Coder at Work
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder at work" />
+</p>
+
+---
+
+## 💡 Glowing Highlight Box
+<p align="center">
+  <img src="https://i.ibb.co/YRh5MPb/glow-box.gif" alt="Glowing Box" width="450" />
+  <br/>
+  <sub>✨ This glowing box represents my constant energy to learn & create ✨</sub>
+</p>
+
+---
+
+## 🕶 Matrix Hacker Vibes
 <p align="center">
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="500" alt="Matrix Rain" />
 </p>
 
 ---
 
-## ✨ My Creative Energy
+## 🚀 Featured Projects (Animated)
 <p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="450" alt="Glowing Box" />
-  <br/>
-  <sub>Always glowing with new ideas 💡</sub>
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Project 1" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300" alt="Project 2" />
+  </a>
 </p>
-
----
-
-## 📊 Animated Skill Levels
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"><sub>✨ Hover to see them glow & click to explore ✨</sub></p>
 
 ---
 
@@ -69,7 +82,7 @@
 
 <p align="center">✨ _"Code. Create. Innovate."_ ✨</p>
 
-<!-- Footer Wave -->
+<!-- Animated Wave Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 </p>
