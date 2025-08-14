@@ -10,6 +10,11 @@
 
 ---
 
+<!-- Animated Wave Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=header" />
+</p>
+
 ## 🛠 Tech & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,flutter,androidstudio,wordpress,kali" />
@@ -17,13 +22,18 @@
 
 ---
 
-## 🎮 Play a Game with Me
+## 👨‍💻 GIF Coder at Work
 <p align="center">
-  <a href="https://github.com/rajput-hemant/Chrome-Dino-Game" target="_blank">
-    <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="300" alt="Play Dino Game" />
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder at work" />
+</p>
+
+---
+
+## 💡 Glowing Highlight Box
+<p align="center">
+  <img src="https://i.ibb.co/YRh5MPb/glow-box.gif" alt="Glowing Box" width="450" />
   <br/>
-  <sub>Click the dino to play a fun game while you're here 🦖</sub>
+  <sub>✨ This glowing box represents my constant energy to learn & create ✨</sub>
 </p>
 
 ---
@@ -40,7 +50,7 @@
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:aasimsaiyed1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
@@ -51,3 +61,8 @@
 ---
 
 <p align="center">✨ _"Code. Create. Innovate."_ ✨</p>
+
+<!-- Animated Wave Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+</p>
