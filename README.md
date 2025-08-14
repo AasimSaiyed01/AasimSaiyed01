@@ -28,15 +28,15 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Project
 <p align="center">
-  <a href="https://github.com/yourprofile/project1" target="_blank">
+  <a href="https://github.com/AasimSaiyed01/StudentManagementSystem" target="_blank">
     <img src="https://img.shields.io/badge/Project1-MERN%20App-blue?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="https://github.com/yourprofile/project2" target="_blank">
+  <a href="https://github.com/AasimSaiyed01/Crime_Rate_Prediction" target="_blank">
     <img src="https://img.shields.io/badge/Project2-ML%20Model-green?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  <a href="https://github.com/yourprofile/project3" target="_blank">
+  <a href="https://github.com/AasimSaiyed01/Django_project" target="_blank">
     <img src="https://img.shields.io/badge/Project3-UI%2FUX%20Design-orange?style=for-the-badge&logo=figma&logoColor=white" />
   </a>
 </p>
@@ -70,7 +70,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="www.linkedin.com/in/mohammed-aasim-saiyed-b64097297" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aasimsaiyed1@gmail.com">
