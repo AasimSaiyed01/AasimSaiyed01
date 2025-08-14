@@ -44,6 +44,13 @@
 
 ---
 
+## 👨‍💻 Coder at Work
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coder at work" />
+</p>
+
+---
+
 ## 💬 Professional Highlights
 - Developed machine learning models for predictive analytics.  
 - Built MERN stack applications deployed on live servers.  
@@ -82,4 +89,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer&animation=slide" />
 </p>
-
