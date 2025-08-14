@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi+I'm+Aasim+%F0%9F%91%8B;MERN+Stack+%7C+Machine+Learning+%7C+UI%2FUX;HTML+CSS+JS+%7C+MongoDB+%7C+MySQL;Python+%7C+Android+Studio+%7C+Flutter;Kali+Linux+%7C+WordPress+Lover;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
-<!-- Modern Gradient Divider -->
+<!-- Animated Gradient Wave Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=36BCF7&height=120&section=header&animation=twirl" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header&animation=slide" />
 </p>
 
 ## 🛠 Tech & Tools
@@ -31,13 +31,13 @@
 ## 🌟 Featured Projects
 <p align="center">
   <a href="https://github.com/yourprofile/project1" target="_blank">
-    <img src="https://img.shields.io/badge/Project1-MERN%20App-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Project1-MERN%20App-blue?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="https://github.com/yourprofile/project2" target="_blank">
-    <img src="https://img.shields.io/badge/Project2-ML%20Model-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Project2-ML%20Model-green?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://github.com/yourprofile/project3" target="_blank">
-    <img src="https://img.shields.io/badge/Project3-UI%2FUX%20Design-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Project3-UI%2FUX%20Design-orange?style=for-the-badge&logo=figma&logoColor=white" />
   </a>
 </p>
 <sub>💻 Key projects demonstrating my technical and design skills</sub>
@@ -78,8 +78,8 @@
 
 <p align="center">✨ _"Code. Create. Innovate."_ ✨</p>
 
-<!-- Modern Footer Animation -->
+<!-- Animated Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=36BCF7&height=100&section=footer&animation=fade" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer&animation=slide" />
 </p>
 
