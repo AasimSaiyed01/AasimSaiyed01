@@ -357,27 +357,24 @@ Available for:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/AasimSaiyed01">
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mohammed-aasim-saiyed-b64097297">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:aasimsaiyed018@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=vercel" height="48"/>
-</a>
 
 </div>
 
@@ -387,10 +384,9 @@ Available for:
 
 | Platform | Link |
 |:---------|:-----|
-| GitHub | https://github.com/YOUR_USERNAME |
-| LinkedIn | https://linkedin.com/in/YOUR_LINK |
-| Portfolio | https://YOUR_PORTFOLIO |
-| Email | YOUR_EMAIL |
+| GitHub | https://github.com/AasimSaiyed01 |
+| LinkedIn | https://linkedin.com/in/www.linkedin.com/in/mohammed-aasim-saiyed-b64097297 |
+| Email | aasimsaiyed018@gmail.com |
 
 </div>
 
