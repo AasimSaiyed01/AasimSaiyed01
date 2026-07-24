@@ -183,3 +183,238 @@ Cross Platform Development
 ## Featured Projects ↓
 
 </div>
+
+## Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### OCR — Optical Character Recognition
+
+Python-based OCR solution capable of extracting text from scanned documents and images with high accuracy.
+
+**Highlights**
+
+- Image to Text Extraction
+- Preprocessing Pipeline
+- Document Recognition
+
+**Technology**
+
+`Python` • `OCR` • `Machine Learning`
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Mathematics Tutor *(In Development)*
+
+An AI-powered educational platform designed to explain mathematical concepts through intelligent problem solving.
+
+**Highlights**
+
+- AI-assisted Learning
+- Intelligent Responses
+- Interactive Experience
+
+**Technology**
+
+`Python` • `Generative AI` • `Machine Learning`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### Crime Rate Prediction
+
+Machine Learning model trained on historical crime datasets to predict future crime trends.
+
+**Highlights**
+
+- Predictive Analytics
+- Data Visualization
+- Model Evaluation
+
+**Technology**
+
+`Python` • `Machine Learning`
+
+</td>
+
+<td valign="top">
+
+### Student Management System
+
+Responsive academic management application developed with modern frontend technologies.
+
+**Highlights**
+
+- Dashboard
+- Student Records
+- Responsive UI
+
+**Technology**
+
+`React` • `MongoDB`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### Flutter Food Delivery App
+
+Cross-platform mobile application focused on performance and user experience.
+
+**Highlights**
+
+- Responsive Layout
+- Authentication
+- Modern Interface
+
+**Technology**
+
+`Flutter`
+
+</td>
+
+<td valign="top">
+
+### Django Web Application
+
+Backend-focused web application developed with Django using structured architecture.
+
+**Highlights**
+
+- Authentication
+- Database Integration
+- Admin Dashboard
+
+**Technology**
+
+`Python` • `Django`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Professional Strengths
+
+- Modern Web Development
+- Artificial Intelligence
+- Machine Learning
+- UI / UX Design
+- Graphic Design
+- WordPress Development
+- Flutter Development
+- SEO & Digital Marketing
+- OCR Solutions
+- Performance Optimization
+- Responsive Design
+- Problem Solving
+- Clean Architecture
+
+---
+
+# Open To Remote Opportunities
+
+I am interested in collaborating with startups, agencies, and global organizations developing products in:
+
+- Artificial Intelligence
+- Machine Learning
+- Modern Web Applications
+- SaaS Platforms
+- UI / UX Design
+- WordPress Development
+- Digital Products
+- Creative Technology
+
+Available for:
+
+- Full-Time
+- Internship
+- Freelance
+- Contract
+- Remote Collaboration
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=vercel" height="48"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Platform | Link |
+|:---------|:-----|
+| GitHub | https://github.com/YOUR_USERNAME |
+| LinkedIn | https://linkedin.com/in/YOUR_LINK |
+| Portfolio | https://YOUR_PORTFOLIO |
+| Email | YOUR_EMAIL |
+
+</div>
+
+---
+
+<div align="center">
+
+## Building Modern Digital Products with AI, Design & Scalable Web Technologies
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&color=0:06B6D4,100:2563EB"/>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&animation=fadeIn&color=0:020617,20:0F172A,55:2563EB,100:06B6D4"/>
+
+</div>
+
+
+
+
+
